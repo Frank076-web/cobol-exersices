@@ -1,0 +1,9 @@
+{
+  "name": "cobol-git",
+  "version": "1.0.0",
+  "description": "Ejercicios COBOL",
+  "keywords": [],
+  "author": "Inzerillo Franco Elías",
+  "license": "ISC",
+  "type": "commonjs"
+}
